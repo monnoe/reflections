@@ -1,0 +1,5 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+Initializing a repository creates a new hidden file within the directory ".git/"
+This file is the repository that will collect all the information necessary to tag and follow the files within the repository.
+It is currently empty, since GIT gives the user the freedom to add whichever existing files he or she wants to the repository (no automatic assumptions)
+
