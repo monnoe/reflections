@@ -3,3 +3,6 @@ Initializing a repository creates a new hidden file within the directory ".git/"
 This file is the repository that will collect all the information necessary to tag and follow the files within the repository.
 It is currently empty, since GIT gives the user the freedom to add whichever existing files he or she wants to the repository (no automatic assumptions)
 
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is different from the working directory because I see it like a drawing board where you can play around with the files you intend to include into the repository.
+The value it has to offer is an overview of the files that are going to become (or maybe even are later) part of the repository
